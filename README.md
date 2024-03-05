@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srihari-00&label=Profile%20views&color=0e75b6&style=flat" alt="srihari-00" /> </p>
 
-- 🔭 I’m currently working on **TuneHub**
+- 🔭 I’m currently Practicing on **Java Full Stack**
 
 - 🌱 I’m currently learning **SpringBoot, Docker**
 
