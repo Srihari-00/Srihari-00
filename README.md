@@ -1,15 +1,16 @@
  <img width="2000" src="https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="GitHub Profile Banner">
 <h1 align="center">Hi 👋, I'm Srihari</h1>
-<h3 align="center">A passionate Java Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srihari-00&label=Profile%20views&color=0e75b6&style=flat" alt="srihari-00" /> </p>
 
-- 🔭 I’m currently Practicing on **Java Full Stack**
+- 🔭 I’m currently working on [TuneHub](https://github.com/Srihari-00/TuneHub.git)
 
 - 🌱 I’m currently learning **SpringBoot, Docker**
 
-- 👯 I’m looking to collaborate on **Java Backend**
+- 👯 I’m looking to collaborate on **Java Backend, Java Full Stack**
+
+- 👨‍💻 All of my projects are available at [https://srihari-00.github.io/Portfolio/](https://srihari-00.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, MySQL, Spring Boot, HTML, CSS, Hibernate**
 
