@@ -22,7 +22,7 @@
 <a href="https://instagram.com/sri_ha_ri_96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_ha_ri_96" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sriharig2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sriharig2000" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sriharig2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sriharig2000" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@srihari229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@srihari229" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@srihari229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@srihari229" height="30" width="40" style="color: violet;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
